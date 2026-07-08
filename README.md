@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center"><i>Gracias por visitar mi perfil — siempre abierto a nuevos retos y oportunidades de aprendizaje 🚀</i></p>
+<p align="center"><i>siempre abierto a nuevos retos y oportunidades de aprendizaje</i></p>
