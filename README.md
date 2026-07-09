@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Jeison Ramirez Vallejo! 👋</h1>
-<h3 align="center">Desarrollador de Software | Backend and FrontEnd</h3>
+<h3 align="center">Desarrollador de Software | FullStack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=FullStack+Developer+en+constante+aprendizaje;Node.js+%7C+Express+%7C+MongoDB;PostgreSQL+%2C+Flask+%2C+PHP+%26+Python;Siempre+con+ganas+de+seguir+creciendo" alt="Typing SVG" />
