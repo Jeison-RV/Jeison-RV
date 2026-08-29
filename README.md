@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer — Node.js · Express · PostgreSQL · MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C8EFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express+%7C+PostgreSQL;MongoDB+%7C+Python+%7C+API+REST;Producción+real+desde+diciembre+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C8EFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express+%7C+PostgreSQL;MongoDB+%7C+Python+%7C+API+REST;En+produccion+desde+diciembre+2025" alt="Typing SVG" />
 </p>
 
 <p align="center">
