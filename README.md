@@ -35,4 +35,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jeison-RV&hide_border=true&theme=dark" />
+</p>
+
+---
+
 <p align="center"><i>Guadalajara de Buga, Colombia · Abierto a trabajo remoto</i></p>
