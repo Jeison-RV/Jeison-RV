@@ -17,6 +17,8 @@
   </a>
 </p>
 
+---
+
 ### Stack
 
 <p align="left">
@@ -29,19 +31,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeison-RV&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-RV&layout=compact&hide_border=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jeison-RV&hide_border=true&theme=dark" />
 </p>
 
 ---
